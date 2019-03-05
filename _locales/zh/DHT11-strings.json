@@ -1,5 +1,5 @@
 {
-    "DHT11|block": "紅外線",
+    "DHT11|block": "溫濕度",
     "DHT11.setPin|block": "設定DHT11連接到引腳 %myPin",
     "DHT11.temperature|block": "溫度",
     "DHT11.humidity|block": "濕度"
