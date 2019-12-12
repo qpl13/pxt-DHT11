@@ -1,6 +1,6 @@
 {
-    "DHT11|block": "溫濕度",
-    "DHT11.setPin|block": "設定DHT11連接到引腳 %myPin",
-    "DHT11.temperature|block": "溫度",
-    "DHT11.humidity|block": "濕度"
+    "DHT11|block": "温湿度",
+    "DHT11.setPin|block": "设定传感器连接到引脚 %myPin",
+    "DHT11.temperature|block": "温度",
+    "DHT11.humidity|block": "湿度"
 }
