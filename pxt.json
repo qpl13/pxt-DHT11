@@ -1,6 +1,6 @@
 {
     "name": "DHT11",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "這是專為micro:bit提供的DHT11溫濕度感應積木(This is the DHT11 blocks for microbit to measure temperature and humidity.)",
     "license": "MIT",
     "dependencies": {
